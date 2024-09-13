@@ -1,0 +1,15 @@
+{
+  "name": "w1-node",
+  "version": "2.0.3",
+  "description": "1dv610 - W1-node",
+  "type": "module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "contributors": [
+    "Emil Meri <em223ve@student.lnu.se"
+  ],
+  "license": "MIT",
+  "private": true
+}
